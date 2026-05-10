@@ -1,5 +1,5 @@
 {
-  "name": "Zigbee2MQTT Edge",
+  "name": "Zigbee2MQTT Edge (Custom)",
   "version": "edge",
   "slug": "zigbee2mqtt_edge",
   "description": "Development build of the Zigbee2MQTT app",
